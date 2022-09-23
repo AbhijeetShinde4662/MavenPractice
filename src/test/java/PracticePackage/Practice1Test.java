@@ -12,6 +12,7 @@ public class Practice1Test
 		
 		System.out.println(browser);
 		System.out.println(url);
+		
 		System.out.println("Hi I am Indian");
 	}
 }
